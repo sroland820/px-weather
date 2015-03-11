@@ -1,3 +1,6 @@
+// REF: http://foundation.zurb.com/docs/
+// REF: http://simpleweatherjs.com/
+
 // 1. Check for Geolocation
 // REF: http://codepen.io/fleeting/pen/Idsaj
 // Browser support geolocation?  
@@ -29,7 +32,7 @@ var loadWeather = function(location) {
     
     // Get _weather_ object
     success: function(weather) {
-        
+    		
       console.log(weather);
       
       // Get & store temperature
@@ -49,18 +52,8 @@ var loadWeather = function(location) {
     
 }; // end of _loadWeather()_ function
 
-/**
- * requestAnimationFrame
- */
-window.requestAnimationFrame = (function(){
-    return  window.requestAnimationFrame       ||
-            window.webkitRequestAnimationFrame ||
-            window.mozRequestAnimationFrame    ||
-            window.oRequestAnimationFrame      ||
-            window.msRequestAnimationFrame     ||
-            function (callback) {
-                window.setTimeout(callback, 1000 / 60);
-            };
-})();
 
 /* DO NOT DELETE ANYTHING ABOVE THIS LINE */
+
+
+

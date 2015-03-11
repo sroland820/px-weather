@@ -1,4 +1,3 @@
-/*! simpleWeather v3.0.2 - http://simpleweatherjs.com */
 (function($) {
   "use strict";
 
