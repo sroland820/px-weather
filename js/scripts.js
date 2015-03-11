@@ -64,5 +64,3 @@ window.requestAnimationFrame = (function(){
 })();
 
 /* DO NOT DELETE ANYTHING ABOVE THIS LINE */
-
-
