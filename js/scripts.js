@@ -95,5 +95,5 @@ var loadWeather = function(location) {
   });
 /*DO NOT DELETE ABOVE THIS */
 
-$.backstretch("weather.jpg");
+ $.backstretch("weather.jpg");
 
