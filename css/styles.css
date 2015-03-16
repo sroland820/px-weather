@@ -1,2 +1,34 @@
+.output{
+	position: center;
+	background: white;
+	width: 500px;
+
+}
+
+body {
+	background: orange;
 
 
+}
+
+form {
+	width:100px;
+
+}
+
+form button {
+	height: 50px;
+
+}
+
+.weatherbox {
+	width:200px;
+	background: blue;
+
+}
+
+.container {
+
+background-color: white;
+
+}
