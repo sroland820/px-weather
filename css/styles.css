@@ -15,7 +15,21 @@ margin: 0, auto;
  width:200px;
  margin: auto;
 
+
 }
+
+.formBox {
+ background-color: lightblue;
+ width:500px;
+ margin: auto;
+ margin-top: 100px;
+ border-radius: 75px;
+ box-shadow: inset 0 0 30px #000000;
+ height: 300px;
+}
+
+}
+
 
 
 .outcome{
@@ -29,19 +43,24 @@ padding-bottom: 30px;
 
 ul {
 	 list-style-type: none;
-	 font-size: 2em;
+	 font-size: 25px;
+	 padding-left: 100px;
+	 font-style: verdana;
 
 }
 
 
 li {
 	 list-style-type: none;
-	 font-size: 2em;
+	 font-size: 25px;
+	 padding-left: 100px;
 
 }
 
 h3 {
 	font-size: 30px;
+	padding-left: 40px;
+	font-style: verdana;
 
 }
 
