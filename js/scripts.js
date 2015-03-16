@@ -1,6 +1,3 @@
- $.backstretch("weather.jpg");
-
-
 // click button, capture zip field
 $('#getZip').click(function() {
   
@@ -35,3 +32,6 @@ $('#getZip').click(function() {
   $('#getWeather').val('');
   
 });
+
+
+

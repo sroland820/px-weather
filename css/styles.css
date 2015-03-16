@@ -1,34 +1,13 @@
-.output{
-	position: center;
-	background: white;
-	width: 500px;
+#container{
+
+background-color: red;
+margin: 0, auto;
 
 }
 
-body {
-	background: orange;
 
-
-}
-
-form {
-	width:100px;
-
-}
-
-form button {
-	height: 50px;
-
-}
-
-.weatherbox {
-	width:200px;
-	background: blue;
-
-}
-
-.container {
-
-background-color: white;
+.form {
+ width:200px;
+ margin: auto;
 
 }
