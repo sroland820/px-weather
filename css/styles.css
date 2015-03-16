@@ -1,13 +1,48 @@
-#container{
+body{
+ background-image: url("../img/weather1.jpg");
 
-background-color: red;
+}
+
+
+#container{
 margin: 0, auto;
 
 }
 
 
 .form {
+ padding-top: 30px;
  width:200px;
  margin: auto;
 
 }
+
+
+.outcome{
+width: 200px;
+margin:auto;
+padding-bottom: 30px;
+
+}
+
+
+
+ul {
+	 list-style-type: none;
+	 font-size: 2em;
+
+}
+
+
+li {
+	 list-style-type: none;
+	 font-size: 2em;
+
+}
+
+h3 {
+	font-size: 30px;
+
+}
+
+
